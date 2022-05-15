@@ -1,5 +1,5 @@
-# Professional README Generator Starter Code
-
+# Professional README Generator 
+# criteria
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
